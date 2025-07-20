@@ -37,7 +37,7 @@ Campos para data, quantidade e valor, com botão “Incluir”.
 
 **📊 Lista de Negociações**
 
-As negociações são exibidas em uma tabela. Lançamentos em dia não útil geram uma mensagem de erro amigável.
+As negociações são exibidas em uma tabela.
 
 <img src="negociacoes-new.png" width="600" alt="Lista de Negociações"/>
 
